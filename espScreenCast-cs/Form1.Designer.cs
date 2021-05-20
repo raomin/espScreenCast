@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿namespace espScreenCast
+=======
+﻿namespace wsNet
+>>>>>>> c83a49eda35bdea1a4968e48cb623e01323bc6b1
 {
     partial class Form1
     {

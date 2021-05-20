@@ -6,8 +6,13 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{146AE745-A08A-4619-8CA1-F5DDDBC5D821}</ProjectGuid>
     <OutputType>WinExe</OutputType>
+<<<<<<< HEAD
     <RootNamespace>espScreenCast</RootNamespace>
     <AssemblyName>espScreenCast</AssemblyName>
+=======
+    <RootNamespace>wsNet</RootNamespace>
+    <AssemblyName>wsNet</AssemblyName>
+>>>>>>> c83a49eda35bdea1a4968e48cb623e01323bc6b1
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -66,7 +71,10 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+<<<<<<< HEAD
       <DesignTime>True</DesignTime>
+=======
+>>>>>>> c83a49eda35bdea1a4968e48cb623e01323bc6b1
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
