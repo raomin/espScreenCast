@@ -4,6 +4,8 @@ You can also scroll text!
 
 ![Alt Text](https://github.com/raomin/espScreenCast/blob/master/doc/preview.gif) ![Alt Text](https://github.com/raomin/espScreenCast/blob/master/doc/Screenshot.png) 
 
+Note: actual framerate is much better, just this gif has a low one to keep it small.
+
 ## Building the projects
 1. open the .sln file with Visual Studio to build it. (or get it in the Release section of this page)
 2. open the `espScreenCast-pioProject` folder in Platformio
